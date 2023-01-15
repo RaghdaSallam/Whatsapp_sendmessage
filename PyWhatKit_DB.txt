@@ -1,0 +1,50 @@
+Date: 15/1/2023
+Time: 14:38
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 14:38
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 14:40
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 14:43
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 14:45
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 14:48
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 15:2
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 15:4
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 15:6
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
+Date: 15/1/2023
+Time: 15:8
+Phone Number: +01281102524
+Message: Text message from a Python Script!
+--------------------
